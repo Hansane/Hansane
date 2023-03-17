@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="#"><iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials">
-</iframe></a>
+<object data="https://www.w3schools.com">
+</object>
 
 <a href="#"><img src="https://github.com/Hansane/Hansane/raw/master/content/content.svg" width="100%" height="250"></a>
 
